@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'MY ',
+    introTitle: 'LINH',
     introDesc: `TrÀ SỮA`,
     btnIntro: 'what',
     title: 'MUA TRÀ SỮA',
