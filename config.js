@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'SUM',
+    introTitle: 'SUM ',
     introDesc: `TrÀ SỮA`,
     btnIntro: 'what',
     title: 'MUA TRÀ SỮA',
